@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Huiying Sabrina Wang
+   # Author: SABRINAWAWA
    # Additional Authors:
    # <your GitHub username>
 
